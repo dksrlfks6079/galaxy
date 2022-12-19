@@ -69,7 +69,7 @@ body {
     color: #eb5757;
 }
 
-.nav li a ::after {
+.nav li a::after {
     position: absolute;
     content: "";
     width: 0;
