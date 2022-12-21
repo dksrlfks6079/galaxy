@@ -424,14 +424,13 @@ body {
 .footer_info p {
     font-size: 14px;
     line-height: 22px;
-    padding-top: 40;
+    padding-top: 40px;
     padding-bottom: 24px;
 }
 
 .footer_info h1 {
     font-size: 40px;
     font-weight: 700;
-    margin-bottom: 36px;
 }
 
 .footer_menu {
@@ -439,17 +438,18 @@ body {
 }
 
 .footer_menu li {
+    width: 200px;
 }
 
 .social_icons {
     display: flex;
 }
 
-.social_icons li a {
+.social_icons li a i {
     font-size: 38px;
 }
 
-.social_icons li a i {
+.social_icons li a {
     display: inline-block;
     margin-right: 16px;
 }
@@ -464,7 +464,7 @@ body {
 .footer_menu ul li a {
     display: inline-block;
     font-size: 16px;
-    color: #f2f2f2;
+    color: #f5f5f5;
     margin-bottom: 30px;
 }
 
